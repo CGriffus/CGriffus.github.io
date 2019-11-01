@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  text-align: center;
+  margin: 15px 0 20px 0;
+}
+
+section {
+  text-align: center;
+}
+
+#construction {
+  margin: 30px 0 10px 0;
+}
+
+h4 {
+  margin: 10px 0;
+}
+
+p {
+  margin: 20px 0 10px 0;
+}
+
+#ocean {
+  width: 100%;
+}
